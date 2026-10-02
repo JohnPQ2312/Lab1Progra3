@@ -1,0 +1,29 @@
+2026-09-28T02:13:53 - Sistema iniciado
+2026-09-28T02:14:03 - Sistema iniciado
+2026-09-28T02:18:37 - Creados turnos 1, 2, 3
+2026-09-28T02:18:37 - Llamado turno 1
+2026-09-28T02:18:37 - Atendido turno 1
+2026-09-28T02:18:41 - Creados turnos 4, 5, 6
+2026-09-28T02:18:41 - Llamado turno 2
+2026-09-28T02:18:41 - Atendido turno 2
+2026-09-28T02:19:14 - Creados turnos 7, 8, 9
+2026-09-28T02:19:14 - Llamado turno 3
+2026-09-28T02:19:15 - Atendido turno 3
+2026-09-28T02:20:49 - Creados turnos 10, 11, 12
+2026-09-28T02:20:49 - Llamado turno 4
+2026-09-28T02:20:49 - Atendido turno 4
+2026-09-28T02:30:31 - Creados turnos 13, 13, 14
+2026-09-28T02:30:31 - Llamado turno 5
+2026-09-28T02:30:31 - Atendido turno 5
+2026-09-28T02:31:59 - Creados turnos 15, 16, 17
+2026-09-28T02:31:59 - Llamado turno 6
+2026-09-28T02:31:59 - Atendido turno 6
+2026-09-28T02:34:46 - Creados turnos 21, 22, 23
+2026-09-28T02:34:46 - Llamado turno 7
+2026-09-28T02:34:46 - Atendido turno 7
+2026-09-28T02:39:14 - Creados turnos 1, 2, 3
+2026-09-28T02:39:14 - Llamado turno 1
+2026-09-28T02:39:14 - Atendido turno 1
+2026-09-28T03:02:56 - Creados turnos 24, 25, 26
+2026-09-28T03:02:56 - Llamado turno 8
+2026-09-28T03:02:56 - Atendido turno 8

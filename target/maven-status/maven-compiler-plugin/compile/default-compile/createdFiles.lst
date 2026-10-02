@@ -1,0 +1,12 @@
+sistematurnos\lab1progra3\persistencia\ArchivoTurnoRepository.class
+sistematurnos\lab1progra3\persistencia\Historial.class
+sistematurnos\lab1progra3\modelo\Turno.class
+sistematurnos\lab1progra3\app\VentanaTurnos.class
+sistematurnos\lab1progra3\persistencia\MemoriaTurnoRepository.class
+sistematurnos\lab1progra3\Lab1Progra3.class
+sistematurnos\lab1progra3\persistencia\PersistenciaException.class
+sistematurnos\lab1progra3\app\InicioGrafico.class
+sistematurnos\lab1progra3\persistencia\TurnoRepository.class
+sistematurnos\lab1progra3\servicio\TurnoService.class
+sistematurnos\lab1progra3\app\TurnoController.class
+sistematurnos\lab1progra3\modelo\EstadoTurno.class
